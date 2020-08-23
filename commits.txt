@@ -1,0 +1,17 @@
+commit f138d1be56ef458c06b0a1e93fad3f7d9758f126
+Author: Lehman <jose.baltazar@ec-tech.com.ar>
+Date:   Sat Aug 22 23:11:38 2020 -0300
+
+    nueva actualziasd
+
+commit 21878a5022dbe8751834929c1e99a98168820122
+Author: Lehman <jose.baltazar@ec-tech.com.ar>
+Date:   Sat Aug 22 23:09:28 2020 -0300
+
+    archivo actualizado
+
+commit 46167bc00a1288a10e00e11853302134ce53193a
+Author: Lehman <jose.baltazar@ec-tech.com.ar>
+Date:   Sat Aug 22 23:04:06 2020 -0300
+
+    iniciamos
